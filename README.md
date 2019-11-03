@@ -2,7 +2,7 @@
 Learning github
 <html>
 <head>
-  <title>hello_world</head>
+  <title>hello_world</title>
   </head>
   <body>
     <h1>Hi I am AnRoux Kilian</h1>
